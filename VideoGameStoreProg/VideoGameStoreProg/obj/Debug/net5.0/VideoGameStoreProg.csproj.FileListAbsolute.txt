@@ -1,0 +1,16 @@
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.exe
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.deps.json
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.runtimeconfig.json
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.runtimeconfig.dev.json
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.dll
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\ref\VideoGameStoreProg.dll
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\bin\Debug\net5.0\VideoGameStoreProg.pdb
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.csproj.AssemblyReference.cache
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.AssemblyInfoInputs.cache
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.AssemblyInfo.cs
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.csproj.CoreCompileInputs.cache
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.dll
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\ref\VideoGameStoreProg.dll
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.pdb
+C:\Users\bengtsson.kevin\Documents\StoreProg\VideoGameStoreProg\VideoGameStoreProg\obj\Debug\net5.0\VideoGameStoreProg.genruntimeconfig.cache
